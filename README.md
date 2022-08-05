@@ -5,3 +5,4 @@
 <img src="https://img.shields.io/badge/Python-6666FF?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Java-CC3333?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-009900?style=flat-square&logo=firebase&logoColor=white"/>
 
 
+ <a href="https://kuninyb.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-996633?style=flat-square&logo=Blog&logoColor=white"/></a>
