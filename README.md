@@ -7,9 +7,3 @@
 
  <a href="https://kuninyb.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-996633?style=flat-square&logo=Blog&logoColor=white"/></a>
 
-프로젝트목록 | 일자 | 사용기술 | 링크
-------------|------|-------|-----|
-금융상품서비스 | 2023 | Node
-금융추천시스템 | 2023 | Vue
-
-![image](https://user-images.githubusercontent.com/76957075/235043083-bd0e9086-2f6a-456b-977d-10a0e92dc3b1.png)
